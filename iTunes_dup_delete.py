@@ -9,7 +9,7 @@ BLACKWORD_NAME = ['[Blank]']
 BLACKWORD_ARTIST = []
 BLACKWORD_ALBUM = []
 
-XML_PATH = '/Users/Peta/Music/iTunes/iTunes Music Library.xml'
+XML_PATH = '~/Music/iTunes/iTunes Music Library.xml'
 
 MusicModel = namedtuple("MusicModel","name,time,artist,album,path")
 
